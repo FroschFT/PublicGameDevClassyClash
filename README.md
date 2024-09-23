@@ -7,7 +7,7 @@ Relevant Links:
 - [Tile Maps](https://www.mapeditor.org/)
 - [Game Assets](https://itch.io/game-assets/free)
 
-# Final Image (Own Implementation)
+# Final Image (Implementation)
 ![GameDevClassyClash](docs/img/GameDevClassyClash.png)
 
 ## Udemy Course
