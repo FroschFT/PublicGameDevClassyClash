@@ -1,5 +1,5 @@
-# Game Dev Class yClash
-Udemy course for a raylib Classy Clash.<br>
+# Game Dev: Class'y Clash
+Udemy course for a raylib Class'y Clash.<br>
 In Classy Clash we introduce Object Oriented Programming. You'll learn how this simplifies programming for games and how inheritance can avoid code duplication.
 
 Relevant Links:
